@@ -17,6 +17,7 @@ print("Terminal de operacoes alteracoes\n")
 print("Adicionando mais uma linha \n")
 print("Mais uma linhass \n")
 print()
+print()
 
 contas=[]
 def listar_contas():
