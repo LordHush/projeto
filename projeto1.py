@@ -22,7 +22,7 @@ def listar_contas():
 
       print(f"Numero da conta {conta['numero']} saldo {conta['saldo']:.2f}R$")
   else:
-    print("Ainda nao foi criada nenhuma conta \n")
+    print("Ainda nao foi criada nenhuma contas \n")
 
 
 def criar_conta():
