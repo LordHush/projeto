@@ -13,7 +13,9 @@ Original file is located at
 
 
 
-print("Terminal de operacoes\n alteracoes")
+print("Terminal de operacoes alteracoes\n")
+print("Adicionando mais uma linha \n")
+print("Mais uma linha \n")
 
 contas=[]
 def listar_contas():
@@ -24,6 +26,8 @@ def listar_contas():
   else:
     print("Ainda nao foi criada nenhuma contas \n")
 
+def funcao():
+   print()
 
 def criar_conta():
     existe=0
