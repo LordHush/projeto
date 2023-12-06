@@ -15,7 +15,7 @@ Original file is located at
 
 print("Terminal de operacoes alteracoes\n")
 print("Adicionando mais uma linha \n")
-print("Mais uma linha \n")
+print("Mais uma linhas \n")
 
 contas=[]
 def listar_contas():
