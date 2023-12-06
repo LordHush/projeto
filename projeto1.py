@@ -26,6 +26,8 @@ def listar_contas():
   else:
     print("Ainda nao foi criada nenhuma conta \n")
 
+def funcao():
+   print()
 
 def criar_conta():
     existe=0
@@ -34,7 +36,7 @@ def criar_conta():
     dados_conta["numero"]=num
     for conta in contas:
         if conta["numero"] == dados_conta["numero"]:
-          print("Essa conta ja existe, tente novamente!\n")
+          print("Essa account ja existe, tente novamente!\n")
 
           break
     if not existe:
