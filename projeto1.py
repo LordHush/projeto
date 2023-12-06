@@ -13,7 +13,8 @@ Original file is located at
 
 
 
-print("Terminal de operacoes\n")
+print("Terminal de operacoes\n alteracoes")
+
 contas=[]
 def listar_contas():
   if contas:
