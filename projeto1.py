@@ -16,7 +16,7 @@ Original file is located at
 print("Terminal de operacoes alteracoes\n")
 print("Adicionando mais uma linha \n")
 print("Mais uma linhas \n")
-print("ssss alteracaos")
+print("ssss alteracaoss")
 print()
 print("alteracao")
 
