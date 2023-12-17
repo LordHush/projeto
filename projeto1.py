@@ -18,7 +18,7 @@ print("Adicionando mais uma linha \n")
 print("Mais uma linhas \n")
 print("ssss alteracaoss aqui")
 print()
-print("alteracao")
+print("alteracaos")
 
 contas=[]
 def listar_contas():
